@@ -1,0 +1,6 @@
+D:\U\NaturalDivisors\NaturalDivisors\bin\Debug\NaturalDivisors.exe.config
+D:\U\NaturalDivisors\NaturalDivisors\bin\Debug\NaturalDivisors.exe
+D:\U\NaturalDivisors\NaturalDivisors\bin\Debug\NaturalDivisors.pdb
+D:\U\NaturalDivisors\NaturalDivisors\obj\Debug\NaturalDivisors.csprojResolveAssemblyReference.cache
+D:\U\NaturalDivisors\NaturalDivisors\obj\Debug\NaturalDivisors.exe
+D:\U\NaturalDivisors\NaturalDivisors\obj\Debug\NaturalDivisors.pdb
